@@ -29,16 +29,16 @@
 </div>
 
 <div align="center">
-  <h3>🌟 Mi Stack Favorito</h3>
+  <h3>🌸 Mi Stack Favorito</h3>
   <img src="https://skillicons.dev/icons?i=js,react,python,html,css,nodejs,figma,git&theme=dark" alt="Tech Stack" />
 </div>
 
 <div align="center">
-  <h3>💫 Datos Curiosos</h3>
+  <h3> Datos Curiosos</h3>
   <table>
     <tr>
       <td align="center">🦄</td>
-      <td>Colecciono unicornios (¡tengo más de 50!)</td>
+      <td>Me gusta ver anime</td>
     </tr>
     <tr>
       <td align="center">🌸</td>
@@ -46,15 +46,11 @@
     </tr>
     <tr>
       <td align="center">☕</td>
-      <td>Funciono mejor con café con leche y galletas</td>
+      <td>Funciono mejor con café</td>
     </tr>
     <tr>
       <td align="center">🎵</td>
       <td>Codeo escuchando música K-pop y lo-fi</td>
-    </tr>
-    <tr>
-      <td align="center">📱</td>
-      <td>Tengo 47 apps de productividad (¡y las uso todas!)</td>
     </tr>
   </table>
 </div>
