@@ -1,7 +1,5 @@
-# 🌸 ¡Hola! 🌸
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff66cc&height=200&section=header&text=Full%20Stack%20Developer%20y%20Dise%C3%B1o%20UX%2FUI&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Creando%20experiencias%20digitales%20desde%20Bolivia&descAlignY=55&descSize=18" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=200&section=header&text=Full%20Stack%20Developer%20y%20Dise%C3%B1o%20UX%2FUI&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Creando%20experiencias%20digitales%20desde%20Bolivia&descAlignY=55&descSize=18" alt="Header"/>
 </div>
 
 
@@ -86,6 +84,26 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=FF1493" alt="Node.js"/>
 </div>
 
+## 🌸 Mi stack creativo
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=figma" width="60" height="60" alt="Figma" />
+        <br><strong>Figma</strong>
+        <br><em>Diseño UI/UX</em>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="60" height="60" alt="Canva" />
+        <br><strong>Canva</strong>
+        <br><em>Diseño rápido</em>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
 ## 🌸 Mi actividad en GitHub
 
 <div align="center">
@@ -110,26 +128,6 @@
 
 ---
 
-## 🌸 Mi stack creativo
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=figma" width="60" height="60" alt="Figma" />
-        <br><strong>Figma</strong>
-        <br><em>Diseño UI/UX</em>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="60" height="60" alt="Canva" />
-        <br><strong>Canva</strong>
-        <br><em>Diseño rápido</em>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
 
 ## 🌸 Conectemos
 <div align="center">
@@ -142,17 +140,9 @@
   <a href="https://www.instagram.com/adriana_gutierrez_000/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=FF69B4" alt="Instagram"/>
   </a>
-  <a href="mailto:adrianagutierrezmollo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF1493" alt="Email"/>
-  </a>
-</div>
-
-
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdrianaGut257&color=FF69B4&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer&text=Keep%20coding%20with%20love!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=65" alt="Footer Wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer&text=Sigue%20programando%20con%20amor%21&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=65" alt="Footer Wave"/>
 </div>
+
