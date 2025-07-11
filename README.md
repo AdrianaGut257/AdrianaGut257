@@ -65,7 +65,7 @@
 
 ---
 
-## 🌸 Tecnologías que se
+## 🌸 Tecnologías
 
 <div align="center">
   <h3>Frontend</h3>
@@ -133,13 +133,13 @@
 
 ## 🌸 Conectemos
 <div align="center">
-  <a href="https://linkedin.com/in/adriana-gutierrez-dev">
+  <a href="https://www.linkedin.com/in/adriana-gutierrez-144746311/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF69B4" alt="LinkedIn"/>
   </a>
   <a href="https://www.facebook.com/share/1BSeTHTNpr/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=FF1493" alt="Facebook"/>
   </a>
-  <a href="https://instagram.com/adriana_gut_dev](https://www.instagram.com/adriana_gutierrez_000/">
+  <a href="https://www.instagram.com/adriana_gutierrez_000/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=FF69B4" alt="Instagram"/>
   </a>
   <a href="mailto:adrianagutierrezmollo@gmail.com">
