@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=200&section=header&text=Full%20Stack%20Developer%20y%20Dise%C3%B1o%20UX%2FUI&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Creando%20experiencias%20digitales%20desde%20Bolivia&descAlignY=55&descSize=18" alt="Header"/>
 </div>
 
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Soy+Adriana+Gutierrez+Mollo;Estudio+en+la+Universidad+Mayor+de+San+Simón;Cree+en+ti+y+todo+será+posible" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🌷+Soy+Adriana+Gutierrez+Mollo+🌷;🌷+Estudio+en+la+Universidad+Mayor+de+San+Simón+🌷;✨+Cree+en+ti+y+todo+será+posible+✨" alt="Typing SVG" />
+  
 </div>
 
 <div align="center">
