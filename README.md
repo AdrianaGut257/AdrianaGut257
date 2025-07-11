@@ -133,10 +133,10 @@
   <a href="https://www.facebook.com/share/1BSeTHTNpr/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=FF1493" alt="Facebook"/>
   </a>
-  <a href="https://instagram.com/adriana_gut_dev">
+  <a href="https://instagram.com/adriana_gut_dev](https://www.instagram.com/adriana_gutierrez_000/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=FF69B4" alt="Instagram"/>
   </a>
-  <a href="mailto:adriana.gutierrez.dev@gmail.com">
+  <a href="mailto:adrianagutierrezmollo@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF1493" alt="Email"/>
   </a>
 </div>
