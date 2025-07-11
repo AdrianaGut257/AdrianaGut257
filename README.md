@@ -1,7 +1,7 @@
 # 🌸 ¡Hola! Soy Adriana Gutierrez Mollo🌸
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Desarrolladora+Full+Stack+%F0%9F%92%BB;Creando+experiencias+digitales+%E2%9C%A8;Amante+del+c%C3%B3digo+diseño UX/UI+%F0%9F%8C%B8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Desarrolladora+Full+Stack+%F0%9F%92%BB;Creando+experiencias+digitales+%E2%9C%A8;Amante+del+c%C3%B3digo+diseño+UX/UI+%F0%9F%8C%B8" alt="Typing SVG" />
 </div>
 
 
