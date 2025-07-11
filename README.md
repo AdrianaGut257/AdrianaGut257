@@ -21,14 +21,14 @@
   <table>
     <tr>
       <td align="center" width="200">
-        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="80" alt="Coding GIF"/>
+        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="140" alt="Coding GIF"/>
         <br><strong>💻 Desarrolladora</strong>
         <br><em>Full Stack Developer</em>
       </td>
       <td align="center" width="200">
-        <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80" alt="Design GIF"/>
+     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnRkenh4ZTAwOGxiNmV1bTN6YmcwdzRmNHd3em5zaGlicXczdXExaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="140" alt="Design GIF"/>
         <br><strong>🎨 Diseñadora</strong>
-        <br><em>UI/UX Enthusiast</em>
+        <br><em>UI/UX designer</em>
       </td>
     </tr>
   </table>
@@ -40,7 +40,7 @@
 </div>
 
 <div align="center">
-  <h3> Datos Curiosos</h3>
+  <h3>🌸 Datos Curiosos</h3>
   <table>
     <tr>
       <td align="center">🦄</td>
