@@ -1,7 +1,7 @@
 # 🌸 ¡Hola! 🌸
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=200&section=header&text=Full%20Stack%20Developer%20y%20Dise%C3%B1o%20UX%2FUI&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Creando%20experiencias%20digitales%20desde%20Bolivia&descAlignY=55&descSize=18" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff66cc&height=200&section=header&text=Full%20Stack%20Developer%20y%20Dise%C3%B1o%20UX%2FUI&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Creando%20experiencias%20digitales%20desde%20Bolivia&descAlignY=55&descSize=18" alt="Header"/>
 </div>
 
 
