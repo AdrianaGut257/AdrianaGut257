@@ -126,18 +126,17 @@
 ---
 
 ## 🌸 Conectemos
-
 <div align="center">
-  <a href="https://linkedin.com/in/adriana-gutierrez-dev">
+  <a href="https://linkedin.com/in/adriana-gutierrez-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF69B4" alt="LinkedIn"/>
   </a>
-  <a href="https://www.facebook.com/share/1BSeTHTNpr/](https://www.facebook.com/share/1BSeTHTNpr/">
+  <a href="https://www.facebook.com/share/1BSeTHTNpr/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=FF1493" alt="Facebook"/>
   </a>
-  <a href="https://instagram.com/adriana_gut_dev">
+  <a href="https://instagram.com/adriana_gut_dev" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=FF69B4" alt="Instagram"/>
   </a>
-  <a href="mailto:adriana.gutierrez.dev@gmail.com">
+  <a href="mailto:adriana.gutierrez.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF1493" alt="Email"/>
   </a>
 </div>
