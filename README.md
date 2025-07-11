@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=200&section=header&text=Full%20Stack%20Developer%20y%20Dise%C3%B1o%20UX%2FUI&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Creando%20experiencias%20digitales%20desde%20Bolivia&descAlignY=55&descSize=18" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=200&section=header&text=Full%20Stack%20Developer%20y%20Designer%20UX%2FUI&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Creando%20experiencias%20digitales%20desde%20Bolivia&descAlignY=55&descSize=18" alt="Header"/>
 </div>
 
 <div align="center">
@@ -14,7 +14,7 @@
 ## 🌸 Sobre mí
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=10&color=FF69B4&center=true&vCenter=true&multiline=true&width=800&height=120&repeat=1&lines=🌷+Hola!+Soy+una+desarrolladora+full+stack+🌷;Creando+magia+digital+desde+Bolivia+-+Cochabamba;🌷+Amante+del+diseño+UX/UI+🌷" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=10&color=FF69B4&center=true&vCenter=true&multiline=true&width=800&height=120&repeat=1&lines=🌷+Hola!+Soy+una+desarrolladora+full+stack+🌷;Creando+magia+digital+desde+Bolivia+-+Cochabamba;🌷+Amante+del+diseño+UX/UI+🌷;🌷+Estudio+Ingenieria+Informatica+🌷" alt="Typing SVG" />
 </div>
 
 
