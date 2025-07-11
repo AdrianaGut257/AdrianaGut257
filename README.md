@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🌷+Soy+Adriana+Gutierrez+Mollo+🌷;🌷+Estudio+en+la+Universidad+Mayor+de+San+Simón+🌷;✨+Cree+en+ti+y+todo+será+posible+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&&repeat=1&multiline=true&width=600&height=100&lines=🌷+Soy+Adriana+Gutierrez+Mollo+🌷;🌷+Estudio+en+la+Universidad+Mayor+de+San+Simón+🌷;✨+Cree+en+ti+y+todo+será+posible+✨" alt="Typing SVG" />
   
 </div>
 
@@ -14,8 +14,9 @@
 ## 🌸 Sobre mí
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=500&color=FF69B4&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Hola!+Soy+una+desarrolladora+full+stack;Creando+magia+digital+desde+Bolivia+-+Cochabamba;Amante+del+diseño+UX/UI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=10&color=FF69B4&center=true&vCenter=true&multiline=true&width=800&height=120&repeat=1&lines=🌷+Hola!+Soy+una+desarrolladora+full+stack+🌷;Creando+magia+digital+desde+Bolivia+-+Cochabamba;🌷+Amante+del+diseño+UX/UI+🌷" alt="Typing SVG" />
 </div>
+
 
 <div align="center">
   <table>
@@ -36,7 +37,7 @@
 
 <div align="center">
   <h3>🌸 Mi Stack Favorito</h3>
-  <img src="https://skillicons.dev/icons?i=js,react,python,html,css,nodejs,figma,git&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,figma&theme=dark" alt="Tech Stack" />
 </div>
 
 <div align="center">
@@ -60,8 +61,6 @@
     </tr>
   </table>
 </div>
-
----
 
 ## 🌸 Tecnologías
 
@@ -103,7 +102,6 @@
   </table>
 </div>
 
----
 ## 🌸 Mi actividad en GitHub
 
 <div align="center">
@@ -118,7 +116,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdrianaGut257&theme=react-dark&bg_color=0D1117&color=FF69B4&line=FF1493&point=FFF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
----
 
 ## 🌸 Mis logros
 
@@ -126,7 +123,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=AdrianaGut257&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" alt="GitHub Trophies" />
 </div>
 
----
 
 
 ## 🌸 Conectemos
