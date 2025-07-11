@@ -1,9 +1,18 @@
 # 🌸 ¡Hola! Soy Adriana Gutierrez Mollo🌸
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Desarrolladora+Full+Stack;Amante+del+código+y+diseño+UX/UI" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=35&height=200&section=header&text=Full%20Stack%20Developer%20y%20Dise%C3%B1o%20UX%2FUI&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Creando%20experiencias%20digitales%20desde%20Bolivia&descAlignY=55&descSize=18" alt="Header"/>
 </div>
 
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Desarrolladora+Full+Stack;Estudio+en+la+Universidad+Mayor+de+San+Simón;Cree+en+ti+y+todo+será+posible" alt="Typing SVG" />
+</div>
+
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding GIF"/>
+</div>
 
 ## 🌸 Sobre mí
 
@@ -57,24 +66,26 @@
 
 ---
 
-## 🌸 Tecnologías que domino
+## 🌸 Tecnologías que se
 
 <div align="center">
+  <h3>Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=js,react,vue,html,css,typescript,figma&theme=dark" alt="Frontend Stack" />
+</div>
+
+<div align="center">
+  <h3>Backend</h3>
+  <img src="https://skillicons.dev/icons?i=python,nodejs,mongodb,mysql,docker,git&theme=dark" alt="Backend Stack" />
+</div>
+
+<div align="center">
+  <h3>Tecnologías Destacadas</h3>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=FF69B4" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=FF1493" alt="React"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=FF69B4" alt="Python"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=FF1493" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=FF69B4" alt="CSS"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=FF1493" alt="Vue.js"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=FF1493" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=FF69B4" alt="Vue.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=FF1493" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=FF69B4" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=FF1493" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=FF69B4" alt="Git"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=FF1493" alt="Docker"/>
 </div>
-
----
 
 ## 🌸 Mi actividad en GitHub
 
