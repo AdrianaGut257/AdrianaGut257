@@ -1,14 +1,14 @@
 # 🌸 ¡Hola! Soy Adriana Gutierrez Mollo🌸
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Desarrolladora+Full+Stack+%F0%9F%92%BB;Creando+experiencias+digitales+%E2%9C%A8;Amante+del+c%C3%B3digo+diseño+UX/UI+%F0%9F%8C%B8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Desarrolladora+Full+Stack;Amante+del+código+y+diseño+UX/UI" alt="Typing SVG" />
 </div>
 
 
 ## 🌸 Sobre mí
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=500&color=FF69B4&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%F0%9F%92%96+Hola!+Soy+una+desarrolladora+apasionada;%F0%9F%8C%9F+Creando+magia+digital+desde+Bolivia;%F0%9F%A6%84+Amante+del+c%C3%B3digo+rosa+y+los+unicornios;%F0%9F%9A%80+Mi+misi%C3%B3n:+cambiar+el+mundo+con+tecnolog%C3%ADa" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=500&color=FF69B4&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Hola!+Soy+una+desarrolladora+full+stack;Creando+magia+digital+desde+Bolivia+-+Cochabamba;Amante+del+diseño+UX/UI" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -50,7 +50,7 @@
     </tr>
     <tr>
       <td align="center">🎵</td>
-      <td>Codeo escuchando música K-pop y lo-fi</td>
+      <td>Codeo escuchando música</td>
     </tr>
   </table>
 </div>
